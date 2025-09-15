@@ -8,7 +8,7 @@
 
   <!-- Header -->
   <img src="{{AVATAR_URL}}" alt="avatar" width="120" style="border-radius:12px; margin-bottom:12px;" />
-  <h1 style="margin:6px 0;">{{Prosper Percy Mawunyo Dzieketey}}</h1>
+  <h1 style="margin:6px 0;">Prosper Percy Mawunyo Dzieketey</h1>
   <p style="margin:0; font-size:16px; color:#444;">
     <strong>Graphic Designer & Junior Web Developer</strong> • ALX Frontend Engineering learner
   </p>
@@ -156,15 +156,15 @@
   <h2 id="contact">Contact</h2>
   <p>
     <strong>Open to:</strong> internships, junior frontend roles, freelance UI tasks.<br />
-    <strong>Email:</strong> <a href="mailto:{{YOUR_EMAIL}}">{{YOUR_EMAIL}}</a> &nbsp; | &nbsp;
+    <strong>Email:</strong> <a href="mailto:pmdpercy@gmail.com">{{YOUR_EMAIL}}</a> &nbsp; | &nbsp;
     <strong>Portfolio:</strong> <a href="{{PORTFOLIO_URL}}">{{PORTFOLIO_URL}}</a>
   </p>
 
   <p>
     <!-- Social icons (replace with your links) -->
-    <a href="https://twitter.com/{{TWITTER_USERNAME}}">Twitter</a> &nbsp; • &nbsp;
-    <a href="https://linkedin.com/in/{{LINKEDIN_USERNAME}}">LinkedIn</a> &nbsp; • &nbsp;
-    <a href="https://github.com/{{GITHUB_USERNAME}}">GitHub</a>
+    <a href="https://twitter.com/percytrillion">Twitter</a> &nbsp; • &nbsp;
+    <a href="https://linkedin.com/in/pdzieketey">LinkedIn</a> &nbsp; • &nbsp;
+    <a href="https://github.com/Percytrillion">GitHub</a>
   </p>
 </section>
 
@@ -175,9 +175,9 @@
   <h2>GitHub Stats</h2>
   <p>
     <!-- Replace GITHUB_USERNAME with your username; these images are commonly embedded in READMEs -->
-    <img src="https://github-readme-stats.vercel.app/api?username={{GITHUB_USERNAME}}&show_icons=true&theme=default" alt="github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Percytrillion&show_icons=true&theme=default" alt="github stats" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{GITHUB_USERNAME}}&layout=compact" alt="top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Percytrillion&layout=compact" alt="top languages" />
   </p>
 </section>
 
@@ -185,5 +185,5 @@
 
 <!-- Footer -->
 <div align="center" style="margin-top:18px; color:#666;">
-  <small>Built by <strong>{{Your Name}}</strong> — currently studying <em>ALX Frontend Engineering</em>. Always learning ✨</small>
+  <small>Built by <strong>Prosper Percy Mawunyo Dzieketey</strong> — currently studying <em>ALX Frontend Engineering</em>. Always learning ✨</small>
 </div>
