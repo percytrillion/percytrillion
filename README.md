@@ -157,13 +157,13 @@
   <p>
     <strong>Open to:</strong> internships, junior frontend roles, freelance UI tasks.<br />
     <strong>Email:</strong> <a href="mailto:pmdpercy@gmail.com">{{YOUR_EMAIL}}</a> &nbsp; | &nbsp;
-    <strong>Portfolio:</strong> <a href="{{PORTFOLIO_URL}}">{{PORTFOLIO_URL}}</a>
+    <strong>Portfolio:</strong> <a href="https://drive.google.com/file/d/1YNt_FIl8Sdq2Q61esauKsPg8aIyTvS-6/view?usp=sharing">{{PORTFOLIO_URL}}</a>
   </p>
 
   <p>
     <!-- Social icons (replace with your links) -->
     <a href="https://twitter.com/percytrillion">Twitter</a> &nbsp; • &nbsp;
-    <a href="https://linkedin.com/in/pdzieketey">LinkedIn</a> &nbsp; • &nbsp;
+    <a href="https://linkedin.com/in/ppmdzieketey">LinkedIn</a> &nbsp; • &nbsp;
     <a href="https://github.com/Percytrillion">GitHub</a>
   </p>
 </section>
